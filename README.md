@@ -6,7 +6,7 @@
 ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
 
 # Análisis de Datos de Siniestros Viales en la Ciudad de Buenos Aires
-![Siniestros viales](<img src="https://imgs.search.brave.com/A1wV76mXvYPGjqy2cErnSjYRioo2UVyopQtAtvxx8HI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9haG9y/cmFzZWd1cm9zLm14/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIy/LzEyL3Npbmllc3Ry/by5qcGc">)
+![Siniestros viales]<img src="https://imgs.search.brave.com/A1wV76mXvYPGjqy2cErnSjYRioo2UVyopQtAtvxx8HI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9haG9y/cmFzZWd1cm9zLm14/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIy/LzEyL3Npbmllc3Ry/by5qcGc">
 
 
 El principal objetivo  de este proyecto es identificar información importante que pueda ayudar a reducir los accidentes fatales en la ciudad de Buenos Aires. Para lograrlo, se llevó a cabo un análisis integral de los datos proporcionados por el Departamento de Transporte, la Subsecretaría de Planificación de Movilidad y la Oficina de Supervisión de Movilidad y Seguridad Vial de 2016 a 2021.
