@@ -50,6 +50,9 @@ En Power BI, creé ocho páginas que incluyen portada, introducción y recomenda
 - **Análisis por Víctima:**
 ![Análisis Víctima](Img/Analisis_victima.png)
 
+- **Recomendacion:**
+![Recomendacion](Img/Recomendacion.png)
+
 ## Hallazgos
 
 Algunos hallazgos interesantes incluyen:
