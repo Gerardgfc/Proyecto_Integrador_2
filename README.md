@@ -83,3 +83,7 @@ Hubo un aumento del 70.37% en accidentes de motociclistas en 2021 en comparació
 - Requisitos más estrictos para obtener el permiso de motocicleta.
 
 Mi objetivo es contribuir a un tránsito más seguro en Buenos Aires, ¡gracias por revisar mi proyecto!
+
+Contactos:
+
+* [Linkedin](https://www.linkedin.com/in/gerard-carrizo-508b16133/)
