@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <a href="https://www.linkedin.com/in/gerard-carrizo-508b16133/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
