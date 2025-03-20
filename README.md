@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# Mi Proyecto de Análisis de Datos sobre Siniestros Viales en Buenos Aires
+#Análisis de Datos sobre Siniestros Viales en Buenos Aires
 
 ¡Hola! Quiero compartir mi proyecto sobre el análisis de siniestros viales en la Ciudad de Buenos Aires. Utilicé varias herramientas, como Pandas, Numpy, Matplotlib, Seaborn y PowerBI.
 
